@@ -1,6 +1,6 @@
 block_cipher = None
 
-a = Analysis(['main.py'],  # Replace 'main.py' with your script name
+a = Analysis(['main.py'], 
              pathex=[],
              binaries=[],
              datas=[],
